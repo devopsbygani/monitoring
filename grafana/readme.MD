@@ -39,6 +39,6 @@ tcp6       0      0 :::3000                 :::*                    LISTEN      
 3. this will successfully add promethus into garafana
 4. now go to dashboards 
 5. click on add visualization and select the connection name saved earlier.
-6. in quries you can find your metrics eg: up and run your qurey 
+6. in quries you can find your metrics (eg: up)  and run your qurey 
 7. this is display the metrics you can save this dashboard.
 8. other multiple representations avaiable,choose based on your needs and comfort.
