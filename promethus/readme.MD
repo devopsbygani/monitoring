@@ -44,4 +44,4 @@ sudo systemctl enable prometheus
 ```
 
 ### open in browser
- <publicip>:9090
+  < publicip >:9090
