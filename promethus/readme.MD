@@ -1,10 +1,6 @@
 # Promethus
 Prometheus is a monitoring tool used to analyze the various metrics of servers.
-It is simple and powerful. It can store historical data through a timestamp database. This helps in analysis such as:
-- Resource utilization
-- Uptime
-- Cost estimation
-- And other metrics easily
+It is simple and powerful. It can store historical data through a timestamp database. This helps in analysis such as: Resource utilization,Uptime,Cost estimation And other metrics easily.
 ---
 ## How to setup Prometheus
 ### Step 1: Installing Prometheus for Linux using `wget` command on the server
